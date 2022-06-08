@@ -4,7 +4,7 @@
 
 *Если вы хотите посмотреть код(https://github.com/Bigilittle/Game_SF/blob/main/Game_one/Game.py)
 
-*Список версий покетов(https://github.com/Bigilittle/Game_SF/blob/main/Game_one/package_versions.txt)
+*Список версий пакетов(https://github.com/Bigilittle/Game_SF/blob/main/Game_one/package_versions.txt)
 
 *Быстрый просмотр результата работы кода(https://github.com/Bigilittle/Game_SF/blob/main/Game_one/Game.ipynb)
 
