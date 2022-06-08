@@ -7,3 +7,5 @@
 *Список версий покетов(https://github.com/Bigilittle/Game_SF/blob/main/Game_one/package_versions.txt)
 
 *Быстрый просмотр результата работы кода(https://github.com/Bigilittle/Game_SF/blob/main/Game_one/Game.ipynb)
+
+РАБОТАЙ!!!
