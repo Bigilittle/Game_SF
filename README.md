@@ -1,7 +1,7 @@
 # Game_SF
-В данной игре компютер сам загадывает и сам угадывает число, при желании вы сами можете написать свою функцию, и проверь насколько быстро она может угадать число
+Здесть вы можете наблюдать различные проекты, их названия и ссылки на них
 
-*Game(https://github.com/Bigilittle/Game_SF/blob/main/Game_one/Game.ipynb)
+*Game(https://github.com/Bigilittle/Game_SF/tree/main/Game_one)
 
 *Пока ничего нет(None)
 
