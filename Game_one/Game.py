@@ -15,15 +15,19 @@ def randome_number(number:int = 1) -> int:
     first=1
     last=101
     count=0
+    
     while True:
+
         count+=1
         comp_number=np.random.randint(first,last)
+
         if comp_number>number:   #Если число получилось больше, то ставим ограничение, измянее переменную last
             last=comp_number   #благодаря этому теперь отрезок в котором мы можем взять число, уменьшено 
         elif comp_number<number: 
             first=comp_number+1
         else:
             break  #выход из цикла
+
     return count   
             
 
